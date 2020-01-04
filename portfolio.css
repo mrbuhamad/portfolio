@@ -1,13 +1,13 @@
 .rownd-img { 
 	border: 3px solid black; 
 	border-radius: 100%;}
+.img {
 
- h3{color: red;}
-
+}
 .border {
   margin: 30px;
   padding: 20px 40px 40px;
-  background: #F0F8FF ;
+  background: #FFFFFF ;
   text-align:center
   border:4px solid black
   border-radius: 10%;
@@ -20,4 +20,8 @@
 }
 .ali{
     align-content: center
+}
+
+.profile-image:hover {
+  transform: scale(1.5) rotate(0deg);
 }
